@@ -16,7 +16,7 @@ OUTPUT: Information about weather, time, blood pressure, make calls
 
 * Smart Fridge:
 
-NPUT: Touchpad on monitor, food, power, bluetooth
+INPUT: Touchpad on monitor, food, power, bluetooth
 
 OUTPUT: Information about food
 
